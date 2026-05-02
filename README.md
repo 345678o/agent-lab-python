@@ -6,7 +6,7 @@ Social Bingo game for in-person mixers. Find people who match the questions and 
 
 ---
 
-## 📚 Lab Guide
+## 📚 Lab   jehuen
 
 | Part | Title |
 |------|-------|
